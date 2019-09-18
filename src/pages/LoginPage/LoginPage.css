@@ -1,0 +1,8 @@
+.loginpage-background{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: rgba(153, 50, 204, 0.2);
+    min-height: 100vh;
+    justify-content: center;
+}
